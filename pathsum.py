@@ -78,7 +78,7 @@ class Solution(object):
             return False
                 
 
-#builing root object here
+#builing binary tree here by adding each nodes
 root = Node(5)
 root.left = Node(4)
 root.right = Node(8)
